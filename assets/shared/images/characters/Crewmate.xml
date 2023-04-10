@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Crewmate.png"><SubTexture name="Crewmate down0000" x="1183" y="674" width="281" height="330" frameX="-322" frameY="-513" frameWidth="900" frameHeight="900" />
+<SubTexture name="Crewmate down0001" x="1183" y="340" width="277" height="334" frameX="-320" frameY="-509" frameWidth="900" frameHeight="900" />
+<SubTexture name="Crewmate idle0000" x="0" y="1073" width="355" height="339" frameX="-256" frameY="-507" frameWidth="900" frameHeight="900" />
+<SubTexture name="Crewmate idle0001" x="1183" y="0" width="350" height="340" frameX="-256" frameY="-503" frameWidth="900" frameHeight="900" />
+<SubTexture name="Crewmate idle0002" x="637" y="724" width="337" height="347" frameX="-254" frameY="-496" frameWidth="900" frameHeight="900" />
+<SubTexture name="Crewmate idle0003" x="0" y="724" width="319" height="349" frameX="-260" frameY="-493" frameWidth="900" frameHeight="900" />
+<SubTexture name="Crewmate idle0004" x="319" y="724" width="318" height="349" frameX="-260" frameY="-493" frameWidth="900" frameHeight="900" />
+<SubTexture name="Crewmate left0000" x="0" y="374" width="370" height="350" frameX="-197" frameY="-492" frameWidth="900" frameHeight="900" />
+<SubTexture name="Crewmate left0001" x="548" y="0" width="356" height="351" frameX="-214" frameY="-491" frameWidth="900" frameHeight="900" />
+<SubTexture name="Crewmate right0000" x="370" y="374" width="286" height="350" frameX="-336" frameY="-493" frameWidth="900" frameHeight="900" />
+<SubTexture name="Crewmate right0001" x="904" y="0" width="279" height="350" frameX="-330" frameY="-493" frameWidth="900" frameHeight="900" />
+<SubTexture name="Crewmate up0000" x="0" y="0" width="271" height="374" frameX="-299" frameY="-468" frameWidth="900" frameHeight="900" />
+<SubTexture name="Crewmate up0001" x="271" y="0" width="277" height="364" frameX="-295" frameY="-478" frameWidth="900" frameHeight="900" />
+</TextureAtlas>
