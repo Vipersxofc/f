@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Lobby", "impostor", [240, 13, 2]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "sus",
+
+	"storyName": "DRQXS",
+	"weekBefore": "Week 7",
+	"difficulties": "normal",
+	"weekName": "Week 8",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
