@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bgBoppers.png"><SubTexture name="bgBoppers bop0000" x="0" y="1307" width="2498" height="644" frameX="-678" frameY="-978" frameWidth="4464" frameHeight="1801" />
+<SubTexture name="bgBoppers bop0001" x="0" y="658" width="2437" height="649" frameX="-681" frameY="-972" frameWidth="4464" frameHeight="1801" />
+<SubTexture name="bgBoppers bop0002" x="2385" y="0" width="2389" height="656" frameX="-682" frameY="-965" frameWidth="4464" frameHeight="1801" />
+<SubTexture name="bgBoppers bop0003" x="0" y="0" width="2385" height="658" frameX="-686" frameY="-962" frameWidth="4464" frameHeight="1801" />
+</TextureAtlas>
